@@ -23,5 +23,14 @@
   "bugs": {
     "url": "https://github.com/IsenrichO/molecular-visualizer/issues"
   },
-  "homepage": "https://github.com/IsenrichO/molecular-visualizer#readme"
+  "homepage": "https://github.com/IsenrichO/molecular-visualizer#readme",
+  "devDependencies": {
+    "eslint": "^3.7.1",
+    "eslint-plugin-react": "^6.4.1",
+    "file-loader": "^0.9.0",
+    "json-loader": "^0.5.4",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.2"
+  }
 }

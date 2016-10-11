@@ -1,0 +1,21 @@
+# Logs:
+logs
+*.log
+.env
+.DS_Store
+
+# Logs:
+logs
+*.log
+.env
+.DS_Store
+
+# Grunt Intermediate Storage: 
+#   > [Ref. URL]:  <http://gruntjs.com/creating-plugins#storing-task-files>
+.grunt
+
+# Dependency Directories:
+#   > Deployed apps should consider commenting these lines out...
+#   > [Ref. URL]:  <https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git>
+node_modules/
+bower_components/
