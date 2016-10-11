@@ -6,3 +6,11 @@ body {
 table {
   border: 1px solid #000;
 }
+
+td {
+  width: 50px;
+  height: 50px;
+  border: 1px solid red;
+  font: bold 2rem/50px Helvetica, sans-serif;
+  text-align: center;
+}

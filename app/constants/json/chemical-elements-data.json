@@ -1,0 +1,295 @@
+[
+  {
+    "element": "Hydrogen",
+    "symbol": "H",
+    "atomicNumber": 1,
+    "coords": {
+      "period": 1,
+      "group": 1
+    }
+  }, {
+    "element": "Helium",
+    "symbol": "He",
+    "atomicNumber": 2,
+    "coords": {
+      "period": 1,
+      "group": 18
+    }
+  }, {
+    "element": "Lithium",
+    "symbol": "Li",
+    "atomicNumber": 3,
+    "coords": {
+      "period": 2,
+      "group": 1
+    }
+  }, {
+    "element": "Beryllium",
+    "symbol": "Be",
+    "atomicNumber": 4,
+    "coords": {
+      "period": 2,
+      "group": 2
+    }
+  }, {
+    "element": "Boron",
+    "symbol": "B",
+    "atomicNumber": 5,
+    "coords": {
+      "period": 2,
+      "group": 13
+    }
+  }, {
+    "element": "Carbon",
+    "symbol": "C",
+    "atomicNumber": 6,
+    "coords": {
+      "period": 2,
+      "group": 14
+    }
+  }, {
+    "element": "Nitrogen",
+    "symbol": "N",
+    "atomicNumber": 7,
+    "coords": {
+      "period": 2,
+      "group": 15
+    }
+  }, {
+    "element": "Oxygen",
+    "symbol": "O",
+    "atomicNumber": 8,
+    "coords": {
+      "period": 2,
+      "group": 16
+    }
+  }, {
+    "element": "Fluorine",
+    "symbol": "F",
+    "atomicNumber": 9,
+    "coords": {
+      "period": 2,
+      "group": 17
+    }
+  }, {
+    "element": "Neon",
+    "symbol": "Ne",
+    "atomicNumber": 10,
+    "coords": {
+      "period": 2,
+      "group": 18
+    }
+  }, 
+
+  {
+    "element": "Sodium",
+    "symbol": "Na",
+    "atomicNumber": 11,
+    "coords": {
+      "period": 3,
+      "group": 1
+    }
+  }, {
+    "element": "Magnesium",
+    "symbol": "Mg",
+    "atomicNumber": 12,
+    "coords": {
+      "period": 3,
+      "group": 2
+    }
+  }, {
+    "element": "Aluminum",
+    "symbol": "Al",
+    "atomicNumber": 13,
+    "coords": {
+      "period": 3,
+      "group": 13
+    }
+  }, {
+    "element": "Silicon",
+    "symbol": "Si",
+    "atomicNumber": 14,
+    "coords": {
+      "period": 3,
+      "group": 14
+    }
+  }, {
+    "element": "Phosphorus",
+    "symbol": "P",
+    "atomicNumber": 15,
+    "coords": {
+      "period": 3,
+      "group": 15
+    }
+  }, {
+    "element": "Sulfur",
+    "symbol": "S",
+    "atomicNumber": 16,
+    "coords": {
+      "period": 3,
+      "group": 16
+    }
+  }, {
+    "element": "Chlorine",
+    "symbol": "Cl",
+    "atomicNumber": 17,
+    "coords": {
+      "period": 3,
+      "group": 17
+    }
+  }, {
+    "element": "Argon",
+    "symbol": "Ar",
+    "atomicNumber": 18,
+    "coords": {
+      "period": 3,
+      "group": 18
+    }
+  }, 
+
+  {
+    "element": "Potassium",
+    "symbol": "K",
+    "atomicNumber": 19,
+    "coords": {
+      "period": 4,
+      "group": 1
+    }
+  }, {
+    "element": "Calcium",
+    "symbol": "Ca",
+    "atomicNumber": 20,
+    "coords": {
+      "period": 4,
+      "group": 2
+    }
+  }, {
+    "element": "Scandium",
+    "symbol": "Sc",
+    "atomicNumber": 21,
+    "coords": {
+      "period": 4,
+      "group": 3
+    }
+  }, {
+    "element": "Titanium",
+    "symbol": "Ti",
+    "atomicNumber": 22,
+    "coords": {
+      "period": 4,
+      "group": 4
+    }
+  }, {
+    "element": "Vanadium",
+    "symbol": "V",
+    "atomicNumber": 23,
+    "coords": {
+      "period": 4,
+      "group": 5
+    }
+  }, {
+    "element": "Chromium",
+    "symbol": "Cr",
+    "atomicNumber": 24,
+    "coords": {
+      "period": 4,
+      "group": 6
+    }
+  }, {
+    "element": "Manganese",
+    "symbol": "Mn",
+    "atomicNumber": 25,
+    "coords": {
+      "period": 4,
+      "group": 7
+    }
+  }, {
+    "element": "Iron",
+    "symbol": "Fe",
+    "atomicNumber": 26,
+    "coords": {
+      "period": 4,
+      "group": 8
+    }
+  }, {
+    "element": "Cobalt",
+    "symbol": "Co",
+    "atomicNumber": 27,
+    "coords": {
+      "period": 4,
+      "group": 9
+    }
+  }, {
+    "element": "Nickel",
+    "symbol": "Ni",
+    "atomicNumber": 28,
+    "coords": {
+      "period": 4,
+      "group": 10
+    }
+  }, {
+    "element": "Copper",
+    "symbol": "Cu",
+    "atomicNumber": 29,
+    "coords": {
+      "period": 4,
+      "group": 11
+    }
+  }, {
+    "element": "Zinc",
+    "symbol": "Zn",
+    "atomicNumber": 30,
+    "coords": {
+      "period": 4,
+      "group": 12
+    }
+  }, {
+    "element": "Gallium",
+    "symbol": "Ga",
+    "atomicNumber": 31,
+    "coords": {
+      "period": 3,
+      "group": 13
+    }
+  }, {
+    "element": "Germanium",
+    "symbol": "Ge",
+    "atomicNumber": 32,
+    "coords": {
+      "period": 3,
+      "group": 14
+    }
+  }, {
+    "element": "Arsenic",
+    "symbol": "As",
+    "atomicNumber": 33,
+    "coords": {
+      "period": 3,
+      "group": 15
+    }
+  }, {
+    "element": "Selenium",
+    "symbol": "Se",
+    "atomicNumber": 34,
+    "coords": {
+      "period": 3,
+      "group": 16
+    }
+  }, {
+    "element": "Bromine",
+    "symbol": "Br",
+    "atomicNumber": 35,
+    "coords": {
+      "period": 3,
+      "group": 17
+    }
+  }, {
+    "element": "Krypton",
+    "symbol": "Kr",
+    "atomicNumber": 36,
+    "coords": {
+      "period": 3,
+      "group": 18
+    }
+  }
+]
