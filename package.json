@@ -1,0 +1,27 @@
+{
+  "name": "molecular-visualizer",
+  "version": "1.0.0",
+  "description": "Three-dimensional crystallographic visualizations",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsenrichO/molecular-visualizer.git"
+  },
+  "keywords": [
+    "Crystallography",
+    "Visualization",
+    "Molecular",
+    "Visualizer",
+    "WebGL",
+    "Isenrich"
+  ],
+  "author": "Oliver Isenrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsenrichO/molecular-visualizer/issues"
+  },
+  "homepage": "https://github.com/IsenrichO/molecular-visualizer#readme"
+}
