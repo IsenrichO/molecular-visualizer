@@ -248,7 +248,7 @@
     "symbol": "Ga",
     "atomicNumber": 31,
     "coords": {
-      "period": 3,
+      "period": 4,
       "group": 13
     }
   }, {
@@ -256,7 +256,7 @@
     "symbol": "Ge",
     "atomicNumber": 32,
     "coords": {
-      "period": 3,
+      "period": 4,
       "group": 14
     }
   }, {
@@ -264,7 +264,7 @@
     "symbol": "As",
     "atomicNumber": 33,
     "coords": {
-      "period": 3,
+      "period": 4,
       "group": 15
     }
   }, {
@@ -272,7 +272,7 @@
     "symbol": "Se",
     "atomicNumber": 34,
     "coords": {
-      "period": 3,
+      "period": 4,
       "group": 16
     }
   }, {
@@ -280,7 +280,7 @@
     "symbol": "Br",
     "atomicNumber": 35,
     "coords": {
-      "period": 3,
+      "period": 4,
       "group": 17
     }
   }, {
@@ -288,7 +288,299 @@
     "symbol": "Kr",
     "atomicNumber": 36,
     "coords": {
-      "period": 3,
+      "period": 4,
+      "group": 18
+    }
+  }, 
+
+  {
+    "element": "Rubidium",
+    "symbol": "Rb",
+    "atomicNumber": 37,
+    "coords": {
+      "period": 5,
+      "group": 1
+    }
+  }, {
+    "element": "Strontium",
+    "symbol": "Sr",
+    "atomicNumber": 38,
+    "coords": {
+      "period": 5,
+      "group": 2
+    }
+  }, {
+    "element": "Yttrium",
+    "symbol": "Y",
+    "atomicNumber": 39,
+    "coords": {
+      "period": 5,
+      "group": 3
+    }
+  }, {
+    "element": "Zirconium",
+    "symbol": "Zr",
+    "atomicNumber": 40,
+    "coords": {
+      "period": 5,
+      "group": 4
+    }
+  }, {
+    "element": "Niobium",
+    "symbol": "Nb",
+    "atomicNumber": 41,
+    "coords": {
+      "period": 5,
+      "group": 5
+    }
+  }, {
+    "element": "Molybdenum",
+    "symbol": "Mb",
+    "atomicNumber": 42,
+    "coords": {
+      "period": 5,
+      "group": 6
+    }
+  }, {
+    "element": "Technetium",
+    "symbol": "Tc",
+    "atomicNumber": 43,
+    "coords": {
+      "period": 5,
+      "group": 7
+    }
+  }, {
+    "element": "Ruthenium",
+    "symbol": "Ru",
+    "atomicNumber": 44,
+    "coords": {
+      "period": 5,
+      "group": 8
+    }
+  }, {
+    "element": "Rhodium",
+    "symbol": "Rh",
+    "atomicNumber": 45,
+    "coords": {
+      "period": 5,
+      "group": 9
+    }
+  }, {
+    "element": "Palladium",
+    "symbol": "Pd",
+    "atomicNumber": 46,
+    "coords": {
+      "period": 5,
+      "group": 10
+    }
+  }, {
+    "element": "Silver",
+    "symbol": "Ag",
+    "atomicNumber": 47,
+    "coords": {
+      "period": 5,
+      "group": 11
+    }
+  }, {
+    "element": "Cadmium",
+    "symbol": "Cd",
+    "atomicNumber": 48,
+    "coords": {
+      "period": 5,
+      "group": 12
+    }
+  }, {
+    "element": "Indium",
+    "symbol": "In",
+    "atomicNumber": 49,
+    "coords": {
+      "period": 5,
+      "group": 13
+    }
+  }, {
+    "element": "Tin",
+    "symbol": "Sn",
+    "atomicNumber": 50,
+    "coords": {
+      "period": 5,
+      "group": 14
+    }
+  }, {
+    "element": "Antimony",
+    "symbol": "Sb",
+    "atomicNumber": 51,
+    "coords": {
+      "period": 5,
+      "group": 15
+    }
+  }, {
+    "element": "Tellurium",
+    "symbol": "Te",
+    "atomicNumber": 52,
+    "coords": {
+      "period": 5,
+      "group": 16
+    }
+  }, {
+    "element": "Iodine",
+    "symbol": "I",
+    "atomicNumber": 53,
+    "coords": {
+      "period": 5,
+      "group": 17
+    }
+  }, {
+    "element": "Xenon",
+    "symbol": "Xe",
+    "atomicNumber": 54,
+    "coords": {
+      "period": 5,
+      "group": 18
+    }
+  }, 
+
+  {
+    "element": "Cesium",
+    "symbol": "Cs",
+    "atomicNumber": 55,
+    "coords": {
+      "period": 6,
+      "group": 1
+    }
+  }, {
+    "element": "Strontium",
+    "symbol": "Sr",
+    "atomicNumber": 56,
+    "coords": {
+      "period": 6,
+      "group": 2
+    }
+  }, {
+    "element": "Yttrium",
+    "symbol": "Y",
+    "atomicNumber": 57,
+    "coords": {
+      "period": 6,
+      "group": 3
+    }
+  }, {
+    "element": "Zirconium",
+    "symbol": "Zr",
+    "atomicNumber": 58,
+    "coords": {
+      "period": 6,
+      "group": 4
+    }
+  }, {
+    "element": "Niobium",
+    "symbol": "Nb",
+    "atomicNumber": 59,
+    "coords": {
+      "period": 6,
+      "group": 5
+    }
+  }, {
+    "element": "Molybdenum",
+    "symbol": "Mb",
+    "atomicNumber": 60,
+    "coords": {
+      "period": 6,
+      "group": 6
+    }
+  }, {
+    "element": "Technetium",
+    "symbol": "Tc",
+    "atomicNumber": 61,
+    "coords": {
+      "period": 6,
+      "group": 7
+    }
+  }, {
+    "element": "Ruthenium",
+    "symbol": "Ru",
+    "atomicNumber": 62,
+    "coords": {
+      "period": 6,
+      "group": 8
+    }
+  }, {
+    "element": "Rhodium",
+    "symbol": "Rh",
+    "atomicNumber": 63,
+    "coords": {
+      "period": 6,
+      "group": 9
+    }
+  }, {
+    "element": "Palladium",
+    "symbol": "Pd",
+    "atomicNumber": 64,
+    "coords": {
+      "period": 6,
+      "group": 10
+    }
+  }, {
+    "element": "Silver",
+    "symbol": "Ag",
+    "atomicNumber": 65,
+    "coords": {
+      "period": 6,
+      "group": 11
+    }
+  }, {
+    "element": "Cadmium",
+    "symbol": "Cd",
+    "atomicNumber": 66,
+    "coords": {
+      "period": 6,
+      "group": 12
+    }
+  }, {
+    "element": "Indium",
+    "symbol": "In",
+    "atomicNumber": 67,
+    "coords": {
+      "period": 6,
+      "group": 13
+    }
+  }, {
+    "element": "Tin",
+    "symbol": "Sn",
+    "atomicNumber": 68,
+    "coords": {
+      "period": 6,
+      "group": 14
+    }
+  }, {
+    "element": "Antimony",
+    "symbol": "Sb",
+    "atomicNumber": 69,
+    "coords": {
+      "period": 6,
+      "group": 15
+    }
+  }, {
+    "element": "Tellurium",
+    "symbol": "Te",
+    "atomicNumber": 70,
+    "coords": {
+      "period": 6,
+      "group": 16
+    }
+  }, {
+    "element": "Iodine",
+    "symbol": "I",
+    "atomicNumber": 71,
+    "coords": {
+      "period": 6,
+      "group": 17
+    }
+  }, {
+    "element": "Xenon",
+    "symbol": "Xe",
+    "atomicNumber": 72,
+    "coords": {
+      "period": 6,
       "group": 18
     }
   }
