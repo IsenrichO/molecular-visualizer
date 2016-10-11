@@ -4,7 +4,10 @@
   "description": "Three-dimensional crystallographic visualizations",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "nodemon",
+    "lint": "eslint app",
+    "test": "test",
+    "dev": "webpack-dev-server --progress --profile --colors"
   },
   "repository": {
     "type": "git",

@@ -11,14 +11,12 @@ module.exports = {
     path: path.join(__dirname, 'public'),
     filename: './js/bundle.js',
     publicPath: 'https://github.com/IsenrichO/molecular-visualizer/public'
-    // publicPath: path.join(__dirname, 'public')
   },
   module: {
     loaders: [
       {
         test: /\.jsx?$/,
         loaders: ['babel']
-        // include: path.join(__dirname, 'app')
       }, { 
         test: /\.json$/, 
         loader: 'json'
@@ -37,7 +35,5 @@ module.exports = {
     port: 3000,
     host: 'localhost'
   },
-  plugins: [
-    // new webpack.HotModuleReplacementPlugin()
-  ]
+  plugins: []
 };
