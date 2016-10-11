@@ -448,139 +448,509 @@
       "group": 1
     }
   }, {
-    "element": "Strontium",
-    "symbol": "Sr",
+    "element": "Barium",
+    "symbol": "Ba",
     "atomicNumber": 56,
     "coords": {
       "period": 6,
       "group": 2
     }
   }, {
-    "element": "Yttrium",
-    "symbol": "Y",
+    "element": "Lanthanum",
+    "symbol": "La",
     "atomicNumber": 57,
     "coords": {
-      "period": 6,
-      "group": 3
+      "period": 8,
+      "group": 4
     }
   }, {
-    "element": "Zirconium",
-    "symbol": "Zr",
+    "element": "Cerium",
+    "symbol": "Ce",
     "atomicNumber": 58,
+    "coords": {
+      "period": 8,
+      "group": 5
+    }
+  }, {
+    "element": "Praseodymium",
+    "symbol": "Pr",
+    "atomicNumber": 59,
+    "coords": {
+      "period": 8,
+      "group": 6
+    }
+  }, {
+    "element": "Neodymium",
+    "symbol": "Nd",
+    "atomicNumber": 60,
+    "coords": {
+      "period": 8,
+      "group": 7
+    }
+  }, {
+    "element": "Promethium",
+    "symbol": "Pm",
+    "atomicNumber": 61,
+    "coords": {
+      "period": 8,
+      "group": 8
+    }
+  }, {
+    "element": "Samarium",
+    "symbol": "Sm",
+    "atomicNumber": 62,
+    "coords": {
+      "period": 8,
+      "group": 9
+    }
+  }, {
+    "element": "Europium",
+    "symbol": "Eu",
+    "atomicNumber": 63,
+    "coords": {
+      "period": 8,
+      "group": 10
+    }
+  }, {
+    "element": "Gadolinium",
+    "symbol": "Gd",
+    "atomicNumber": 64,
+    "coords": {
+      "period": 8,
+      "group": 11
+    }
+  }, {
+    "element": "Terbium",
+    "symbol": "Tb",
+    "atomicNumber": 65,
+    "coords": {
+      "period": 8,
+      "group": 12
+    }
+  }, {
+    "element": "Dysprosium",
+    "symbol": "Dy",
+    "atomicNumber": 66,
+    "coords": {
+      "period": 8,
+      "group": 13
+    }
+  }, {
+    "element": "Holmium",
+    "symbol": "Ho",
+    "atomicNumber": 67,
+    "coords": {
+      "period": 8,
+      "group": 14
+    }
+  }, {
+    "element": "Erbium",
+    "symbol": "Er",
+    "atomicNumber": 68,
+    "coords": {
+      "period": 8,
+      "group": 15
+    }
+  }, {
+    "element": "Thulium",
+    "symbol": "Tm",
+    "atomicNumber": 69,
+    "coords": {
+      "period": 8,
+      "group": 16
+    }
+  }, {
+    "element": "Ytterbium",
+    "symbol": "Yb",
+    "atomicNumber": 70,
+    "coords": {
+      "period": 8,
+      "group": 17
+    }
+  }, {
+    "element": "Lutetium",
+    "symbol": "Lu",
+    "atomicNumber": 71,
+    "coords": {
+      "period": 8,
+      "group": 18
+    }
+  }, {
+    "element": "Hafnium",
+    "symbol": "Hf",
+    "atomicNumber": 72,
     "coords": {
       "period": 6,
       "group": 4
     }
   }, {
-    "element": "Niobium",
-    "symbol": "Nb",
-    "atomicNumber": 59,
+    "element": "Tantalum",
+    "symbol": "Ta",
+    "atomicNumber": 73,
     "coords": {
       "period": 6,
       "group": 5
     }
   }, {
-    "element": "Molybdenum",
-    "symbol": "Mb",
-    "atomicNumber": 60,
+    "element": "Tungsten",
+    "symbol": "W",
+    "atomicNumber": 74,
     "coords": {
       "period": 6,
       "group": 6
     }
   }, {
-    "element": "Technetium",
-    "symbol": "Tc",
-    "atomicNumber": 61,
+    "element": "Rhenium",
+    "symbol": "Re",
+    "atomicNumber": 75,
     "coords": {
       "period": 6,
       "group": 7
     }
   }, {
-    "element": "Ruthenium",
-    "symbol": "Ru",
-    "atomicNumber": 62,
+    "element": "Osmium",
+    "symbol": "Os",
+    "atomicNumber": 76,
     "coords": {
       "period": 6,
       "group": 8
     }
   }, {
-    "element": "Rhodium",
-    "symbol": "Rh",
-    "atomicNumber": 63,
+    "element": "Iridium",
+    "symbol": "Ir",
+    "atomicNumber": 77,
     "coords": {
       "period": 6,
       "group": 9
     }
   }, {
-    "element": "Palladium",
-    "symbol": "Pd",
-    "atomicNumber": 64,
+    "element": "Platinum",
+    "symbol": "Pt",
+    "atomicNumber": 78,
     "coords": {
       "period": 6,
       "group": 10
     }
   }, {
-    "element": "Silver",
-    "symbol": "Ag",
-    "atomicNumber": 65,
+    "element": "Gold",
+    "symbol": "Au",
+    "atomicNumber": 79,
     "coords": {
       "period": 6,
       "group": 11
     }
   }, {
-    "element": "Cadmium",
-    "symbol": "Cd",
-    "atomicNumber": 66,
+    "element": "Mercury",
+    "symbol": "Hg",
+    "atomicNumber": 80,
     "coords": {
       "period": 6,
       "group": 12
     }
   }, {
-    "element": "Indium",
-    "symbol": "In",
-    "atomicNumber": 67,
+    "element": "Thallium",
+    "symbol": "Tl",
+    "atomicNumber": 81,
     "coords": {
       "period": 6,
       "group": 13
     }
   }, {
-    "element": "Tin",
-    "symbol": "Sn",
-    "atomicNumber": 68,
+    "element": "Lead",
+    "symbol": "Pb",
+    "atomicNumber": 82,
     "coords": {
       "period": 6,
       "group": 14
     }
   }, {
-    "element": "Antimony",
-    "symbol": "Sb",
-    "atomicNumber": 69,
+    "element": "Bismuth",
+    "symbol": "Bi",
+    "atomicNumber": 83,
     "coords": {
       "period": 6,
       "group": 15
     }
   }, {
-    "element": "Tellurium",
-    "symbol": "Te",
-    "atomicNumber": 70,
+    "element": "Polonium",
+    "symbol": "Po",
+    "atomicNumber": 84,
     "coords": {
       "period": 6,
       "group": 16
     }
   }, {
-    "element": "Iodine",
-    "symbol": "I",
-    "atomicNumber": 71,
+    "element": "Astatine",
+    "symbol": "At",
+    "atomicNumber": 85,
     "coords": {
       "period": 6,
       "group": 17
     }
   }, {
-    "element": "Xenon",
-    "symbol": "Xe",
-    "atomicNumber": 72,
+    "element": "Radon",
+    "symbol": "Rn",
+    "atomicNumber": 86,
     "coords": {
       "period": 6,
+      "group": 18
+    }
+  }, 
+
+  {
+    "element": "Francium",
+    "symbol": "Fr",
+    "atomicNumber": 87,
+    "coords": {
+      "period": 7,
+      "group": 1
+    }
+  }, {
+    "element": "Radium",
+    "symbol": "Ra",
+    "atomicNumber": 88,
+    "coords": {
+      "period": 7,
+      "group": 2
+    }
+  }, {
+    "element": "Actinium",
+    "symbol": "Ac",
+    "atomicNumber": 89,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Thorium",
+    "symbol": "Th",
+    "atomicNumber": 90,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Protactinium",
+    "symbol": "Pa",
+    "atomicNumber": 91,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Uranium",
+    "symbol": "U",
+    "atomicNumber": 92,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Neptunium",
+    "symbol": "Np",
+    "atomicNumber": 93,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Plutonium",
+    "symbol": "Pu",
+    "atomicNumber": 94,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Americium",
+    "symbol": "Am",
+    "atomicNumber": 95,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Curium",
+    "symbol": "Cm",
+    "atomicNumber": 96,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Berkelium",
+    "symbol": "Bk",
+    "atomicNumber": 97,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Californium",
+    "symbol": "Cf",
+    "atomicNumber": 98,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Einsteinium",
+    "symbol": "Es",
+    "atomicNumber": 99,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Fermium",
+    "symbol": "Fm",
+    "atomicNumber": 100,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Mendelevium",
+    "symbol": "Md",
+    "atomicNumber": 101,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Nobelium",
+    "symbol": "No",
+    "atomicNumber": 102,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Lawrencium",
+    "symbol": "Lr",
+    "atomicNumber": 103,
+    "coords": {
+      "period": 7,
+      "group": null
+    }
+  }, {
+    "element": "Rutherfordium",
+    "symbol": "Rf",
+    "atomicNumber": 104,
+    "coords": {
+      "period": 7,
+      "group": 4
+    }
+  }, {
+    "element": "Dubnium",
+    "symbol": "Db",
+    "atomicNumber": 105,
+    "coords": {
+      "period": 7,
+      "group": 5
+    }
+  }, {
+    "element": "Seaborgium",
+    "symbol": "Sg",
+    "atomicNumber": 106,
+    "coords": {
+      "period": 7,
+      "group": 6
+    }
+  }, {
+    "element": "Bohrium",
+    "symbol": "Bh",
+    "atomicNumber": 107,
+    "coords": {
+      "period": 7,
+      "group": 7
+    }
+  }, {
+    "element": "Hassium",
+    "symbol": "Hs",
+    "atomicNumber": 108,
+    "coords": {
+      "period": 7,
+      "group": 8
+    }
+  }, {
+    "element": "Meitnerium",
+    "symbol": "Mt",
+    "atomicNumber": 109,
+    "coords": {
+      "period": 7,
+      "group": 9
+    }
+  }, {
+    "element": "Darmstadtium",
+    "symbol": "Ds",
+    "atomicNumber": 110,
+    "coords": {
+      "period": 7,
+      "group": 10
+    }
+  }, {
+    "element": "Roentgenium",
+    "symbol": "Rg",
+    "atomicNumber": 111,
+    "coords": {
+      "period": 7,
+      "group": 11
+    }
+  }, {
+    "element": "Copernicium",
+    "symbol": "Cn",
+    "atomicNumber": 112,
+    "coords": {
+      "period": 7,
+      "group": 12
+    }
+  }, {
+    "element": "Nihonium",
+    "symbol": "Nh",
+    "atomicNumber": 113,
+    "coords": {
+      "period": 7,
+      "group": 13
+    }
+  }, {
+    "element": "Flerovium",
+    "symbol": "Fl",
+    "atomicNumber": 114,
+    "coords": {
+      "period": 7,
+      "group": 14
+    }
+  }, {
+    "element": "Moscovium",
+    "symbol": "Mc",
+    "atomicNumber": 115,
+    "coords": {
+      "period": 7,
+      "group": 15
+    }
+  }, {
+    "element": "Livermorium",
+    "symbol": "Lv",
+    "atomicNumber": 116,
+    "coords": {
+      "period": 7,
+      "group": 16
+    }
+  }, {
+    "element": "Tennessine",
+    "symbol": "Ts",
+    "atomicNumber": 117,
+    "coords": {
+      "period": 7,
+      "group": 17
+    }
+  }, {
+    "element": "Oganesson",
+    "symbol": "Og",
+    "atomicNumber": 118,
+    "coords": {
+      "period": 7,
       "group": 18
     }
   }

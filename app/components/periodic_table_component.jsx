@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import ChemicalElementData from '../constants/json/chemical-elements-data.json';
 
 
-const generateEmptySlotsPTable = () => new Array(7).fill([]).map(period => new Array(18).fill(null));
+const generateEmptySlotsPTable = () => new Array(9).fill([]).map(period => new Array(18).fill(null));
   console.log(generateEmptySlotsPTable());
 
 let newPTable = generateEmptySlotsPTable();
