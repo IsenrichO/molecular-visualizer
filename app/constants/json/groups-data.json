@@ -1,0 +1,15 @@
+[
+  {
+    "groupNumber": 1,
+    "romanNumber": "I",
+    "names": ["Alkali Metals"]
+  }, {
+    "groupNumber": 2,
+    "romanNumber": "II",
+    "names": ["Alkaline Earth Metals"]
+  }, {
+    "groupNumber": 3,
+    "romanNumber": "",
+    "names": ["Rare Earth Metals"]
+  }
+]
