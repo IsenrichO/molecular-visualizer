@@ -51,6 +51,10 @@ export default class PeriodicTable extends Component {
     return (
       <table id="ptable">
         <caption>Periodic Table of The Elements</caption>
+        <colgroup>
+          <col></col>
+          <col span={18}></col>
+        </colgroup>
         <tbody>
           { this.erectPTable() }
         </tbody>

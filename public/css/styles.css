@@ -1,4 +1,4 @@
-* { box-sizing: content-box; }
+* { box-sizing: border-box; }
 
 body {
   width: 100vw;
@@ -12,7 +12,21 @@ table {
   margin: auto;
   /* border: 1px solid #000; */
   border-collapse: collapse;
+  overflow: hidden;
 }
+
+tbody td:hover:before {
+  position: absolute;
+  content: "";
+  left: -2px;
+  right: -2px;
+  top: -50vh;
+  bottom: -100vh;
+  border-left: 2px solid #00F;
+  border-right: 2px solid #00F;
+  z-index: 1;
+}
+
 tr:first-child td {
   border-top: 2px solid transparent;
   border-bottom: 2px solid transparent;
@@ -26,6 +40,8 @@ tr:hover {
   border-bottom: 2px solid #00F;
 }
 tr:hover td:first-child { color: #F00; }
+
+col:hover { background: #FF0; }
 
 td {
   position: relative;
